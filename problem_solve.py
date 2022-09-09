@@ -16,7 +16,7 @@ two_pair_values = [
 [4, 11],
 [14, 0],
 [8, 1],
-[4, 9],(5,4)
+[4, 9]
 ]
 target_value = 9
 result = get_aspected_index(two_pair_values, target_value)
